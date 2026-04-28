@@ -11,6 +11,7 @@ Char100
 Char100
 Char100
 Char100
+Char100
 Bella90
 Char100
 Char100
